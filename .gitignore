@@ -1,0 +1,18 @@
+# SimNIBS outputs and subject data — never commit
+m2m_*/
+stage1_out/
+*.msh
+*.msh.opt
+*.nii
+*.nii.gz
+*.log
+charm_*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
